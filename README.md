@@ -1,7 +1,7 @@
 Hi 👋 My name is Chetan Sonar
 =============================
 
-Web Developer || Mern Developer || UI Developer
+Web Developer || Mern Stack Developer || UI Developer
 -----------------------------------------------
 
 Experienced developer with proficiency in React JS, JavaScript, CSS, and HTML, JSON, Material UI, Bootstrap, API integration. Familiarity with Node.js, and angular. Passionate about creating dynamic and responsive web applications. Strong problem-solving skills and dedication to delivering high-quality user experiences.
